@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522337227285",
+    "project_id": "flutter-to-do-lap",
+    "storage_bucket": "flutter-to-do-lap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522337227285:android:607058bbeb807e118d741c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4MMpTqaxBuQnmPZYm8NMaXiR_mHJChA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522337227285:android:b835cc825355eda18d741c",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4MMpTqaxBuQnmPZYm8NMaXiR_mHJChA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
